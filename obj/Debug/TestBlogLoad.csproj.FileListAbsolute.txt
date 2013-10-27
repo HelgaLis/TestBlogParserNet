@@ -1,0 +1,17 @@
+D:\Documents and Settings\helgus\My Documents\Visual Studio 2008\Projects\BlogpostReader\TestBlogLoad\bin\Debug\TestBlogLoad.exe
+D:\Documents and Settings\helgus\My Documents\Visual Studio 2008\Projects\BlogpostReader\TestBlogLoad\bin\Debug\TestBlogLoad.pdb
+D:\Documents and Settings\helgus\My Documents\Visual Studio 2008\Projects\BlogpostReader\TestBlogLoad\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\helgus\My Documents\Visual Studio 2008\Projects\BlogpostReader\TestBlogLoad\obj\Debug\Window1.baml
+D:\Documents and Settings\helgus\My Documents\Visual Studio 2008\Projects\BlogpostReader\TestBlogLoad\obj\Debug\Window1.g.cs
+D:\Documents and Settings\helgus\My Documents\Visual Studio 2008\Projects\BlogpostReader\TestBlogLoad\obj\Debug\App.g.cs
+D:\Documents and Settings\helgus\My Documents\Visual Studio 2008\Projects\BlogpostReader\TestBlogLoad\obj\Debug\TestBlogLoad_MarkupCompile.cache
+D:\Documents and Settings\helgus\My Documents\Visual Studio 2008\Projects\BlogpostReader\TestBlogLoad\obj\Debug\TestBlogLoad.g.resources
+D:\Documents and Settings\helgus\My Documents\Visual Studio 2008\Projects\BlogpostReader\TestBlogLoad\obj\Debug\TestBlogLoad.Properties.Resources.resources
+D:\Documents and Settings\helgus\My Documents\Visual Studio 2008\Projects\BlogpostReader\TestBlogLoad\obj\Debug\TestBlogLoad.csproj.GenerateResource.Cache
+D:\Documents and Settings\helgus\My Documents\Visual Studio 2008\Projects\BlogpostReader\TestBlogLoad\obj\Debug\TestBlogLoad.exe
+D:\Documents and Settings\helgus\My Documents\Visual Studio 2008\Projects\BlogpostReader\TestBlogLoad\obj\Debug\TestBlogLoad.pdb
+D:\Documents and Settings\helgus\My Documents\Visual Studio 2008\Projects\BlogpostReader\TestBlogLoad\bin\Debug\TestBlogParse.dll
+D:\Documents and Settings\helgus\My Documents\Visual Studio 2008\Projects\BlogpostReader\TestBlogLoad\bin\Debug\HtmlAgilityPack.dll
+D:\Documents and Settings\helgus\My Documents\Visual Studio 2008\Projects\BlogpostReader\TestBlogLoad\bin\Debug\HtmlAgilityPack.pdb
+D:\Documents and Settings\helgus\My Documents\Visual Studio 2008\Projects\BlogpostReader\TestBlogLoad\bin\Debug\HtmlAgilityPack.xml
+D:\Documents and Settings\helgus\My Documents\Visual Studio 2008\Projects\BlogpostReader\TestBlogLoad\bin\Debug\TestBlogParse.pdb
